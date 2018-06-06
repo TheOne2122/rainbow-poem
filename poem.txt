@@ -6,5 +6,4 @@ freen
 blue 
 green
 yeloow
-lolo 
-popo 
+ 
