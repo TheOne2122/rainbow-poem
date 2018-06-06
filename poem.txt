@@ -7,3 +7,4 @@ blue
 green
 yeloow
 newmaster
+10
